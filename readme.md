@@ -4,8 +4,8 @@
 ---
 	1.1显示时间戳（这里可以显示具体的记录时间）
 	
-![](https://github.com/xieyueyin/myNote/blob/master/tupian/1.png)
-![](https://github.com/xieyueyin/myNote/blob/master/tupian/5.jpg)
+![aa](https://github.com/xieyueyin/myNote/blob/master/tupian/1.png)
+![aa](https://github.com/xieyueyin/myNote/blob/master/tupian/5.jpg)
 <br>
 
 
@@ -13,7 +13,7 @@
 添加了一个TextView显示时间戳
 	
 	1.2搜索功能
-![](https://github.com/xieyueyin/myNote/blob/master/tupian/6.jpg)
+![aa](https://github.com/xieyueyin/myNote/blob/master/tupian/6.jpg)
 <br>
 	
 增加了搜索功能，可根据title搜索
