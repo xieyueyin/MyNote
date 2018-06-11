@@ -34,4 +34,6 @@
 ![](https://github.com/xieyueyin/newPicture/blob/master/tupian/Screenshot_2018-06-10-22-30-44.png)
 ![](https://github.com/xieyueyin/newPicture/blob/master/tupian/Screenshot_2018-06-10-22-30-51.png)
 ![](https://github.com/xieyueyin/newPicture/blob/master/tupian/Screenshot_2018-06-10-22-30-57.png)
-增加了排序的功能，可以使用时间排序，对记录的笔记进行一个时间轴的排序，如上图，可以看到页面内的note的记录根据了时间轴的顺序来排列，使了ReclcyerView + spinner
+
+
+这里使用了ReclcyerView+spinner，增加了排序的功能，可以使用时间排序，对记录的笔记进行时间轴的排序，可以看到页面内的note的记录根据了时间轴的顺序来排列，还可对颜色、标题进行排序，颜色可根据笔记的颜色顺序进行排列。还可对标题首字母或者是数字进行排序。
